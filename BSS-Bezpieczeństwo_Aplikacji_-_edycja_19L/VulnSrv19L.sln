@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{911E67C6-3D85-4FCE-B560-20A9C3E3FF48}") = "VulnSrv19L", "VulnSrv19L.exe", "{DBE4CFD6-6A7E-4DCD-8A1D-F0CF4F938EE8}"
+	ProjectSection(DebuggerProjectSystem) = preProject
+		PortSupplier = 00000000-0000-0000-0000-000000000000
+		Executable = C:\Users\konra\Downloads\BSS-Bezpieczeństwo_Aplikacji_-_edycja_19L\VulnSrv19L.exe
+		RemoteMachine = DESKTOP-R5K5CH1
+		StartingDirectory = C:\Users\konra\Downloads\BSS-Bezpieczeństwo_Aplikacji_-_edycja_19L
+		Environment = Domyślne
+		LaunchingEngine = 00000000-0000-0000-0000-000000000000
+		UseLegacyDebugEngines = No
+		LaunchSQLEngine = No
+		AttachLaunchAction = No
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBE4CFD6-6A7E-4DCD-8A1D-F0CF4F938EE8}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2801143D-1B56-4863-A0C7-22F91410B7BD}
+	EndGlobalSection
+EndGlobal
